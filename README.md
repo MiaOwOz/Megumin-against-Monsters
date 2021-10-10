@@ -13,10 +13,10 @@ Since the game is still in a very early alpha-state, there aren't much features:
 > Ingame-Menu with 4 Buttons (Attack, Item, Flee, Magic)
 
 ## Installation
-_Pre-built binaries_
+`Pre-built binaries`
 Go to the releases tab and download the latest version of the game. Then extract the downloaded archive and open the .exe-file.
 
-_Building it yourself_
+`Building it yourself`
 Clone the repository and extract it onto your computer.
 Then open the Unity-Project using atleast Unity Version `2020.3.8f1`.
 In Unity, press `File -> Build Settings` if you want to change some settings, otherwise use `File -> Build and Run` to build the game without changing any settings.
