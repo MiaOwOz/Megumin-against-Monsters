@@ -1,4 +1,4 @@
-# Megumin-against-Monsters
+# Megumin against Monsters
 
 This is a little game, more like a graphical but more expanded version of my first project, **Magician against Monsters**. This time, it's a graphical game written using the Unity Engine.
 
